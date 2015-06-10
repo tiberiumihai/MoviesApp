@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">MoviesApp</string>
     <string name="hello_world">Hello world!</string>
+    <string name="action_most_popular">Most Popular</string>
+    <string name="action_highest_rated">Highest Rated</string>
     <string name="action_settings">Settings</string>
 </resources>

@@ -15,6 +15,9 @@ public class Movie {
     private int voteAverage;
     private int voteCount;
 
+    public Movie() {
+    }
+
     public Movie(boolean adult, String backdropPath, int id, String originalTitle, String release_date, String posterPath, double popularity, String title, int voteAverage, int voteCount) {
         this.adult = adult;
         this.backdropPath = backdropPath;
